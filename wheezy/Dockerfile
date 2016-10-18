@@ -1,4 +1,4 @@
-# Dockerfile - Debian Jessie
+# Dockerfile - Debian Wheezy
 # https://github.com/openresty/docker-openresty
 
 FROM debian:wheezy
