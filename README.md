@@ -2,7 +2,7 @@
 `docker-openresty` is a Debian based docker image for [OpenResty](https://github.com/openresty)
 
 ## Description
-I saw that `openresty` has a [docker initiative](https://github.com/openresty/docker-openresty) over at their github project page, but what was missing was Debian Images. Here you will find both `jessie` and `wheezy` build flavors.
+I saw that `openresty` has a [docker initiative](https://github.com/openresty/docker-openresty) over at their github project page, but what was missing were Debian Images. Here you will find both `jessie` and `wheezy` build flavors.
 
 For the automated builds go to [hub.docker.com](https://hub.docker.com/r/mcroth/docker-openresty/).
 
