@@ -14,3 +14,4 @@ docker pull mcroth/docker-openresty:jessie
 docker pull mcroth/docker-openresty:wheezy
 ```
 
+UPDATE: [openresty/docker-openresty](https://github.com/openresty/docker-openresty/issues/21) added `jessie` and `wheezy` official builds. I will leave this here for historical reason. Thanks @neomantra for the mention!
